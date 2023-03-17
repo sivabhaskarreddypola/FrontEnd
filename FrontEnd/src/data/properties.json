@@ -1,0 +1,23 @@
+[
+  {
+    "id":1,
+    "name":"HDFC",
+    "type":"2BHK"
+  },
+  {
+    "id":2,
+    "name":"AXis",
+    "type":"apartment"
+  },
+  {
+    "id":3,
+    "name":"IDFC",
+    "type":"Villa"
+  },
+  {
+    "id":4,
+    "name":"BOB",
+    "type":"1BHK"
+  }
+
+]
